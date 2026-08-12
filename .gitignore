@@ -1,0 +1,10 @@
+node_modules/
+dist/
+cloudfunctions-dist/
+artifacts/
+.env.local
+project.private.config.json
+.DS_Store
+*.log
+coverage/
+.codex_tmp/

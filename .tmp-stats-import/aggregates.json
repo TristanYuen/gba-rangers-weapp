@@ -1,0 +1,350 @@
+{
+  "matched": [
+    {
+      "name": "阿德",
+      "apps": 2,
+      "goals": 1,
+      "assists": 4,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "陈厚达",
+      "apps": 7,
+      "goals": 2,
+      "assists": 4,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "陈树健",
+      "apps": 12,
+      "goals": 7,
+      "assists": 13,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "陈泳杰",
+      "apps": 3,
+      "goals": 0,
+      "assists": 0,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "陈智威",
+      "apps": 4,
+      "goals": 0,
+      "assists": 1,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "冯江楠",
+      "apps": 1,
+      "goals": 0,
+      "assists": 0,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "冯耀夫",
+      "apps": 7,
+      "goals": 0,
+      "assists": 0,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "冯正夫",
+      "apps": 0,
+      "goals": 0,
+      "assists": 0,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "郝嘉旭",
+      "apps": 0,
+      "goals": 0,
+      "assists": 0,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "何文轩",
+      "apps": 7,
+      "goals": 0,
+      "assists": 0,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "何熙",
+      "apps": 9,
+      "goals": 8,
+      "assists": 2,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "胡敬钧",
+      "apps": 3,
+      "goals": 1,
+      "assists": 1,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "黄震杰",
+      "apps": 14,
+      "goals": 3,
+      "assists": 1,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "蹇昌安",
+      "apps": 11,
+      "goals": 2,
+      "assists": 1,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "黎沛轩",
+      "apps": 6,
+      "goals": 0,
+      "assists": 0,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "黎响",
+      "apps": 14,
+      "goals": 24,
+      "assists": 4,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "黎耀锋",
+      "apps": 0,
+      "goals": 0,
+      "assists": 0,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "李炜麒",
+      "apps": 11,
+      "goals": 13,
+      "assists": 12,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "李宇轩",
+      "apps": 1,
+      "goals": 0,
+      "assists": 0,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "梁子谦",
+      "apps": 0,
+      "goals": 0,
+      "assists": 0,
+      "foundInWorkbook": false
+    },
+    {
+      "name": "林嘉朗",
+      "apps": 0,
+      "goals": 0,
+      "assists": 0,
+      "foundInWorkbook": false
+    },
+    {
+      "name": "林子彬",
+      "apps": 2,
+      "goals": 0,
+      "assists": 0,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "刘广健",
+      "apps": 3,
+      "goals": 1,
+      "assists": 1,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "刘铭术",
+      "apps": 5,
+      "goals": 0,
+      "assists": 2,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "刘梓睿",
+      "apps": 9,
+      "goals": 0,
+      "assists": 1,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "陆泳锜",
+      "apps": 3,
+      "goals": 0,
+      "assists": 2,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "莫汝恒",
+      "apps": 4,
+      "goals": 5,
+      "assists": 1,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "欧嘉俊",
+      "apps": 4,
+      "goals": 6,
+      "assists": 4,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "沙雨润",
+      "apps": 3,
+      "goals": 0,
+      "assists": 1,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "唐添翼",
+      "apps": 1,
+      "goals": 0,
+      "assists": 0,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "韦张军",
+      "apps": 2,
+      "goals": 3,
+      "assists": 2,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "吴庚华",
+      "apps": 12,
+      "goals": 2,
+      "assists": 2,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "吴子康",
+      "apps": 4,
+      "goals": 0,
+      "assists": 2,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "夏梓恒",
+      "apps": 2,
+      "goals": 2,
+      "assists": 0,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "向浩麟",
+      "apps": 3,
+      "goals": 4,
+      "assists": 0,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "萧毅杰",
+      "apps": 4,
+      "goals": 1,
+      "assists": 0,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "谢嘉峻",
+      "apps": 11,
+      "goals": 3,
+      "assists": 2,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "杨承炫",
+      "apps": 4,
+      "goals": 0,
+      "assists": 0,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "叶俊鹏",
+      "apps": 4,
+      "goals": 1,
+      "assists": 0,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "尹伟明",
+      "apps": 2,
+      "goals": 1,
+      "assists": 1,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "袁铖",
+      "apps": 2,
+      "goals": 0,
+      "assists": 0,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "袁梓皓",
+      "apps": 3,
+      "goals": 0,
+      "assists": 1,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "郑文睿",
+      "apps": 5,
+      "goals": 1,
+      "assists": 2,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "钟佳栩",
+      "apps": 12,
+      "goals": 0,
+      "assists": 2,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "钟颖俊",
+      "apps": 2,
+      "goals": 0,
+      "assists": 3,
+      "foundInWorkbook": true
+    },
+    {
+      "name": "周恺文",
+      "apps": 0,
+      "goals": 0,
+      "assists": 0,
+      "foundInWorkbook": false
+    },
+    {
+      "name": "周照安",
+      "apps": 6,
+      "goals": 1,
+      "assists": 0,
+      "foundInWorkbook": true
+    }
+  ],
+  "workbookOnly": [
+    "陈昊翔",
+    "陈智民",
+    "冲击波",
+    "何泽锋",
+    "黄俊锋",
+    "李灏轩",
+    "马君豪",
+    "欧阳",
+    "王基权",
+    "王振懿",
+    "尹智",
+    "钟文勇",
+    "庄嘉炜"
+  ],
+  "sourceStatsChecked": 45,
+  "mismatches": []
+}
