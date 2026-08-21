@@ -4,10 +4,36 @@
 
 ## 本地启动
 
+首次开发需要安装：
+
+- Node.js 18 或更高版本
+- pnpm
+- 微信开发者工具
+- Git
+
+在 MacBook 上可以这样获取并启动项目：
+
+```bash
+git clone https://github.com/TristanYuen/gba-rangers-weapp.git
+cd gba-rangers-weapp
+pnpm install
+pnpm dev:weapp
+```
+
 ```powershell
 pnpm install
 pnpm dev:weapp
 ```
+
+项目默认使用本地数据，不需要先连接 CloudBase 就能预览和继续开发。
+
+## MacBook 开发注意事项
+
+- `project.private.config.json` 没有上传，这是微信开发者工具的本地配置文件，不影响基础开发。
+- 根目录的 `.cmd` 和 `.ps1` 文件是 Windows 脚本，MacBook 不能直接双击运行。可以使用上面的 pnpm 命令，或直接在微信开发者工具中导入“微信开发者工具导入包”目录。
+- `node_modules`、`dist` 和 `cloudfunctions-dist` 不提交到仓库，执行 `pnpm install` 和构建命令即可重新生成。
+- 如果需要连接线上 CloudBase，需要使用有权限的微信账号登录，并配置对应的小程序 AppID、CloudBase 环境和云函数权限。
+- 本地演示邀请码为 `GBA2026`，线上数据和管理员功能需要真实账号及对应权限。
 
 ## 浏览器手机预览
 
